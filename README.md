@@ -37,7 +37,6 @@ https://developer.github.com/
 The response of the application is in JSON string format 
 
 <h3>Future Improvements</h3>
-Unit and integration tests can be added
-Status of the github api can be checked before request
-Github allows limited queries to get users. Maybe multithreading can be used to get multiple results and 
+Unit and integration tests can be added.Status of the github api can be checked before request.
+Github allows limited queries to get users.Multithreading can be used to get multiple results and 
 collect them in a concurrency data structure
