@@ -23,7 +23,7 @@ https://developer.github.com/
 <pre>
     <b>location</b> : String, can be any city
     
-    <b>sort</b> : Sorts the results of your query by number of followers or repositories, 
+    <b>sort</b> : Sorts the results of your query by number of <b>followers</b> or <b>repositories</b>, 
     or when the person joined GitHub. Default: best match
     
     <b>order</b> : Determines whether the first search result returned is the highest number of matches (desc)
