@@ -29,7 +29,8 @@ https://developer.github.com/
     <b>order</b> : Determines whether the first search result returned is the highest number of matches (desc)
     or lowest number of matches (asc). This parameter is ignored unless you provide sort. Default: desc
     
-    <b>https://localhost:_your_port_/api/transactions?location=barcelona&sort=repositories&order=asc</b>
+    <b>https://localhost:_your_port_/api/user?location=barcelona&sort=repositories&order=asc</b>
+
 </pre>  
 
 <h3>Response</h3>

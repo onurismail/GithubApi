@@ -5,13 +5,13 @@ using TransactionAspNetCore.Services;
 
 namespace TransactionAspNetCore.Controllers
 {
-    // [ApiVersion("1.0")]
+    //[ApiVersion("1.0")]
     [Route("api/[controller]")]
     [ApiController]
-    public class TransactionsController : ControllerBase
+    public class UserController : ControllerBase
     {
         private IUserRepository _repository;
-        public TransactionsController(IUserRepository repository)
+        public UserController(IUserRepository repository)
         {
             _repository = repository;
         }
