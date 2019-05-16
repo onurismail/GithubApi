@@ -36,8 +36,8 @@ https://developer.github.com/
 <h3>Response</h3>
 The response of the application is in JSON string format 
 
-<<<<<<< HEAD
 <h3>Future Improvements</h3>
-=======
-<h3>Future Improvements</h3>
->>>>>>> 6447fe5c4bc71273aaf80df329b4174ec57cc842
+Unit and integration tests can be added
+Status of the github api can be checked before request
+Github allows limited queries to get users. Maybe multithreading can be used to get multiple results and 
+collect them in a concurrency data structure
